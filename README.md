@@ -84,7 +84,13 @@ create table deliveries(
 );
 ```
 
-## Data Import
+## Data Import 
+
+```sql
+
+Imported the data using bulk insert statement using the file path
+
+```
 
 ## Data Cleaning and Handling Null Values
 
